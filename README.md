@@ -1,14 +1,3 @@
-# Test_Lib
-<<<<<<< HEAD
-<<<<<<< HEAD
->  存放测试代码
-
 ## bazel_test
 
-Bazel工具学习测试代码，具体见：
-=======
-存放测试代码
->>>>>>> c5e6d1e1f5e7860d2052cb1519b1e5891a5207b9
-=======
-存放测试代码
->>>>>>> c5e6d1e1f5e7860d2052cb1519b1e5891a5207b9
+存放**bazel**的测试代码，具体见：https://www.cnblogs.com/pam-sh/p/16915818.html
